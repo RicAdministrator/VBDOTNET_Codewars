@@ -1,0 +1,50 @@
+# Build results
+bin/
+obj/
+Debug/
+Release/
+*.dll
+*.exe
+*.pdb
+
+# Visual Studio
+.vs/
+.vscode/
+*.sln.iml
+*.user
+*.suo
+*.cache
+*.VisualState.xml
+*.ncb
+*.psess
+*.vsp
+*.vspx
+
+# NuGet
+.nuget/
+*.nupkg
+*.nuget.props
+*.nuget.targets
+
+# ReSharper
+_ReSharper*/
+*.resharper.user
+*.resharper
+
+# Test Results
+TestResults/
+*.trx
+
+# IDE
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Local environment
+.env
+*.log
